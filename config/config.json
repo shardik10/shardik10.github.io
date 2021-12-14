@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xaf7949575c2265EB181E256C5DFf203C349bF15E",
+  "SCAN_LINK": "https://polygonscan.com/address/0xaf7949575c2265EB181E256C5DFf203C349bF15E",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "LuckyGhosts",
+  "SYMBOL": "LGO",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/luckyghosts",
+  "SHOW_BACKGROUND": false
+}
