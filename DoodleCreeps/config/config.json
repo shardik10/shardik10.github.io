@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb51a830Fc0b474aCedd1F81AC9A2155da9919362",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb51a830Fc0b474aCedd1F81AC9A2155da9919362",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DoodleCreeps",
+  "SYMBOL": "LGO",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/doodlecreeps",
+  "SHOW_BACKGROUND": false
+}
